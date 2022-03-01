@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of a large printed paper, from Pensilvania, intituled, A brief admonition to the elders and ministers of the people called Quakers.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09710</idno>
+            <idno type="OCLC"> 80923350</idno>
+            <idno type="STC">Wing P1401A</idno>
+            <idno type="STC">ESTC R181645</idno>
+            <idno type="EEBO-CITATION">80923350</idno>
+            <idno type="OCLC">ocm 80923350</idno>
+            <idno type="VID">191948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191948)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:20c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of a large printed paper, from Pensilvania, intituled, A brief admonition to the elders and ministers of the people called Quakers.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the month called July, 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J.P. [i.e. John Pennyman].</note>
+                  <note>Imperfect: cropped, stained, and edges mutilated.</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+                  <note>With: Some of the Quakers contradictions which they writ , &amp;c. London, : Printed 1696. and are to be sold by J. Gwillim in Bishopsgate-street, and S. Clark in George-Yard, booksellers, [1696] -- Some of the Quakers contradictory testimonies about oaths and swearing. London, : Printed 1696. and are to be sold ... at J. Gwillims ..., and S. Clark's ..., booksellers, [1696].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brief admonition to the elders and ministers of the people called Quakers.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="4" facs="tcp:191948:1"/>
+            <head>This following is a Copy of a LETTER that was ſent (with
+the foregoing) to <hi>William Penn, George Whitehead,</hi> and the reſt of
+their Miniſters.</head>
+            <p>I That am a Man of Peace, Love, and good Will to all Mankind,
+have been made to ap<g ref="char:EOLhyphen"/>pear like a Man of Strife and Contention: And why was it?
+Surely it could not be for any earthly or worldly Advantage I was made ſo to
+appear; but it was certainly ſo order'd, and that by the very ſame good
+Spirit (and, at times, in the ſame Reluctancy of Mind) that <hi>Jeremiah</hi>
+was ſent to the <hi>Iſraelites</hi> of old.</p>
+            <p>Now, if this be true, as moſt true it is, then it concerns you
+(unto whom I have ſo ap<g ref="char:EOLhyphen"/>peared) to reflect upon your ſelves, and ſay,
+<hi>What have we done?</hi> or <hi>are a doing?</hi> that ſuch a Perſon
+ſhould be [thus] raiſed up, to Reprove, Warn, and Caution us, as we
+formerly Reproved, Warned, and Caution'd others? I ſay, If the
+Conſideration of this was but duly and deeply weighed and conſidered of by
+you (as without all doubt it ſhould and ought to be) then 'twere poſſible
+you might yet come to ſee, and be made ſenſible, that 'tis not the Spirit
+of <hi>Chriſt</hi> that acts and guides you, and that it was not in Enmity or
+Ill-will (as ſome of you have imagin'd) that I have been made ſo often to
+viſit and exhort you, but that it was [only] in love to Truth, and in
+obedience to the good Spirit of the ever Bleſſed GOD, in whoſe Service I
+deſire evermore to be found faithful.</p>
+            <closer>
+               <signed>J. P.</signed>
+               <date>2d <hi>of (the Month call'd)</hi> Auguſt,
+1696,</date>
+            </closer>
+         </div>
+         <div type="abstract">
+            <pb facs="tcp:191948:1" rendition="simple:additions"/>
+            <head>AN ABSTRACT Of a Large Printed Paper, from
+<hi>Penſilvania,</hi> Intituled, <hi>A Brief ADMONITION to the</hi> Elders
+<hi>and</hi> Miniſters <hi>of the People called</hi> QUAKERS.</head>
+            <q rend="margQuotes">
+               <p>MAny Months have I been preſſed in Spirit to Warn you, the
+<hi>Leaders</hi> and <hi>Miniſters</hi> of the People call'd
+<hi>Quakers— viz.</hi> Tho' you were careful, at your half Years Meeting
+of <hi>Miniſters</hi> at <hi>Phila<g ref="char:EOLhyphen"/>delphia,</hi> the 6th of the 4th Month
+<hi>(June)</hi> laſt, to Forbid your Friends <hi>wearing a Speckled
+Neckcloth, a Ribband for a Hatband,</hi> and the like; and ſeem very Zealous
+to forbid your Friends to Marry with other Chriſtian Profeſſors. Nay, and
+to warn them, on pain of <hi>Judgment,</hi> not to have ſo much Society with
+your late Friends (whom you call Separates) as to go to their Weddings,
+Preaching it up as a <hi>Sin</hi> ſo to do. And the Yearly Paper from
+<hi>London,</hi> warning their Friends to keep to the plain Language of
+<hi>Thee</hi> and <hi>Thou, &amp;c.</hi> Yet, know aſſuredly, That tho'
+<hi>Your Religion</hi> lie in theſe <hi>Outward Ceremonies,</hi> they are but
+Trifles— And are Inſufficient to divert Divine <hi>Vengeance,</hi>
+which is certainly <hi>your Portion,</hi> if you ſtill neglect, firſt to
+Clenſe the <hi>Inſide</hi> from <hi>Pride</hi> and <hi>Envy,</hi> againſt
+your fellow Creatures, for refuſing Conformity to your Ways.</p>
+               <p>And inaſmuch as you declare to the World, That you are Arriv'd
+to ſuch a height of Perfection, beyond other Chriſtian Profeſſors, that
+you are ſo far <hi>free from Sin,</hi> as that you have no need to ask
+Forgiveneſs; From hence it is, That you do never, in your Prayers, in
+Meetings, ask Forgiveneſs of Sin. [Tho' tis apparent, That there is no
+Religious Society this day in <hi>Chri<g ref="char:EOLhyphen"/>ſtendom,</hi> that are Guilty of more
+<hi>Whoredoms, Adultries,</hi> and other <hi>Foul</hi> and <hi>Abominable
+Actions</hi> than you have been, the Number conſidered.] There<g ref="char:EOLhyphen"/>fore ceaſe
+your <hi>Woes</hi> and <hi>Warnings</hi> againſt the <hi>Whoredoms</hi> and
+<hi>Abominations</hi> that are in the <hi>World,</hi> and firſt cry out
+againſt thoſe Things that are a<g ref="char:EOLhyphen"/>mongſt your ſelves; firſt
+<hi>Clenſe your own Camp,</hi> and then Warn others to beware of theſe
+Evils, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>The aboveſaid <hi>Admonition</hi> (with others) being ſent
+from <hi>Penſilvania</hi> ſome time ago (put forth by one <hi>Daniel
+Leeds,</hi> an Antient <hi>Quaker</hi>) tis thought meet to have it Reprinted,
+and to be Communicated to the <hi>Quakers</hi> here, that ſo they may ſee
+(notwithſtanding their High Boaſt of being <hi>Free form Sin</hi>) That the
+<hi>Whoredoms, Adultries,</hi> and other Immoralities of their Friends beyond
+Sea, are as great, as theirs are here: And for which, there is great cauſe of
+Sorrow, and deep Humiliation, which that this Paper might be Inſtrumental to
+pro<g ref="char:EOLhyphen"/>duce amongſt them, would be to the Joy, and true Rejoycing of ſome
+Sincere Souls that have Mourned for them; and that ſtill heartily deſires
+their Repen<g ref="char:EOLhyphen"/>tance and Amendment of Life; and that longs to ſee the Day,
+wherein they might be truly Humbled and Repent: This being the <hi>Way,</hi>
+and there is not another, for an Holy and Happy Reconciliation, both with the
+LORD, and all that truly Love, Fear, and Obey HIM, and that are Zealous for HIS
+Honour and Glory; of which Number, the Publiſher hereof deſires Evermore to
+be found, whilſt he has a Being in this World; that when his Days are Ended,
+and his Work Finiſhed for which he was Born, he may lay down his Head in
+Peace, and be receiv'd to Mercy with all the Holy <hi>Ancients.</hi> Even ſo
+<hi>Amen</hi> and <hi>Amen,</hi> is the humble Deſire, and conſtant Prayer
+of a Friend to the whole Creation.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Month called <hi>July,</hi>
+1698.</p>
+            <pb facs="tcp:191948:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
